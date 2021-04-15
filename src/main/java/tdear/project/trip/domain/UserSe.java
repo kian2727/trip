@@ -1,4 +1,4 @@
-package tdear.project.trip.entity;
+package tdear.project.trip.domain;
 
 public enum UserSe {
     NORMAL

@@ -1,4 +1,4 @@
-package tdear.project.trip.entity;
+package tdear.project.trip.domain;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,4 +1,4 @@
-package tdear.project.trip.entity;
+package tdear.project.trip.domain;
 
 public enum UserStatus {
     ACTIVE, WITHDRAW
